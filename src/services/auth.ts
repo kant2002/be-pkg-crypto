@@ -1,4 +1,4 @@
-import { UnauthorizedError } from '@diia-inhouse/errors'
+import { UnauthorizedError } from '@kant2002-diia-inhouse/errors'
 import {
     AcquirerTokenData,
     CabinetUserTokenData,
@@ -15,8 +15,8 @@ import {
     TokenData,
     UserTokenData,
     VerifiedBaseTokenData,
-} from '@diia-inhouse/types'
-import { asserts } from '@diia-inhouse/utils'
+} from '@kant2002-diia-inhouse/types'
+import { asserts } from '@kant2002-diia-inhouse/utils'
 
 import { AuthConfig } from '../interfaces'
 

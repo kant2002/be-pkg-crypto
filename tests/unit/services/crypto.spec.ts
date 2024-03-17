@@ -1,5 +1,5 @@
-import Logger from '@diia-inhouse/diia-logger'
-import { mockClass } from '@diia-inhouse/test'
+import Logger from '@kant2002-diia-inhouse/diia-logger'
+import { mockClass } from '@kant2002-diia-inhouse/test'
 
 import { AuthService, CryptoService, HashService } from '../../../src'
 import { config } from '../../mocks/config'

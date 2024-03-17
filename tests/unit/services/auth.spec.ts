@@ -1,7 +1,7 @@
-import Logger from '@diia-inhouse/diia-logger'
-import { UnauthorizedError } from '@diia-inhouse/errors'
-import { mockClass } from '@diia-inhouse/test'
-import { SessionType } from '@diia-inhouse/types'
+import Logger from '@kant2002-diia-inhouse/diia-logger'
+import { UnauthorizedError } from '@kant2002-diia-inhouse/errors'
+import { mockClass } from '@kant2002-diia-inhouse/test'
+import { SessionType } from '@kant2002-diia-inhouse/types'
 
 import { AuthService } from '../../../src'
 import { config } from '../../mocks/config'

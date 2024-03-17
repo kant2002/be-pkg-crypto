@@ -1,6 +1,6 @@
 import { createHmac } from 'crypto'
 
-import { IdentifierPrefix, SessionType } from '@diia-inhouse/types'
+import { IdentifierPrefix, SessionType } from '@kant2002-diia-inhouse/types'
 
 import { IdentifierConfig, IdentifierOps } from '../interfaces/identifier'
 

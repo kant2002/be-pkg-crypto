@@ -1,6 +1,6 @@
 import { JWE, JWK } from 'node-jose'
 
-import { Logger, OnInit, TokenData } from '@diia-inhouse/types'
+import { Logger, OnInit, TokenData } from '@kant2002-diia-inhouse/types'
 
 import { JwtToken } from '../interfaces'
 
